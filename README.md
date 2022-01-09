@@ -7,7 +7,7 @@ Please keep in mind that this is my first project published here and if I did an
 <br /> As it keeps me motivated to continue the development of this library.
 
 ## Description
- The Loading Library aims to make programming in c# easier.
+ The Loading Library aims to make programming in c# easier. This is its first release and will receive updates!
  
 ## What does it do?
 This library currently has 8 functions:<br />
