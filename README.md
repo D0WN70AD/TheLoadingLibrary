@@ -2,6 +2,9 @@
 
 ## Before you continue
 Please keep in mind that this is my first project published here and if I did anything wrong, let me know.
+<br /> Consider donating through PayPal here: https://www.paypal.com/donate?hosted_button_id=PQPJMMASEYKYA
+<br /> Or support me through Patreon or suggest a new feature here: https://www.patreon.com/d0wn70ad?fan_landing=true 
+<br /> As it keeps me motivated to continue the development of this library.
 
 ## Description
  The Loading Library aims to make programming in c# easier.
